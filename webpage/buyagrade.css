@@ -24,3 +24,7 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+#section_id {
+
+    width: 100px;
+}
